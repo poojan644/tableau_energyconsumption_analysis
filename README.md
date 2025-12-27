@@ -1,2 +1,2 @@
-# tableau_energyconsumption_analysis
-Tableau project analyzing energy market trends
+# Global Renewable Energy Trends & Growth Analysis (2015–2025)
+This project analyzes global renewable energy trends and growth across countries, regions, and energy types from 2015 to 2025. It examines cumulative production patterns, regional contributions, year-over-year (YoY) changes, and growth comparisons across energy sources including Solar, Wind, Hydro, Biomass, Geothermal, and Tidal. The visualizations highlight key regions and countries driving renewable energy expansion and uncover emerging trends across renewable technologies.
